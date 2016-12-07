@@ -1,0 +1,9 @@
+c:\users\анна\documents\visual studio 2013\Projects\CPO6\CPO6\bin\Debug\CPO6.exe.config
+c:\users\анна\documents\visual studio 2013\Projects\CPO6\CPO6\bin\Debug\CPO6.exe
+c:\users\анна\documents\visual studio 2013\Projects\CPO6\CPO6\bin\Debug\CPO6.pdb
+c:\users\анна\documents\visual studio 2013\Projects\CPO6\CPO6\obj\Debug\CPO6.csprojResolveAssemblyReference.cache
+c:\users\анна\documents\visual studio 2013\Projects\CPO6\CPO6\obj\Debug\CPO6.Form1.resources
+c:\users\анна\documents\visual studio 2013\Projects\CPO6\CPO6\obj\Debug\CPO6.Properties.Resources.resources
+c:\users\анна\documents\visual studio 2013\Projects\CPO6\CPO6\obj\Debug\CPO6.csproj.GenerateResource.Cache
+c:\users\анна\documents\visual studio 2013\Projects\CPO6\CPO6\obj\Debug\CPO6.exe
+c:\users\анна\documents\visual studio 2013\Projects\CPO6\CPO6\obj\Debug\CPO6.pdb
